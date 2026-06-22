@@ -21,7 +21,7 @@
 	"adminBot": ["100010879334528"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [100010879334528],
+		"whiteListIds": ["100010879334528"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
